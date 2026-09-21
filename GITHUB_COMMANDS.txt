@@ -1,0 +1,8 @@
+cd Week-3-Cybersecurity
+git init
+git add .
+git commit -m "Week 3: network security assessment"
+git branch -M main
+# create an empty repo named cybersecurity-week-3-network-security on github.com first, then:
+git remote add origin https://github.com/<YOUR-USERNAME>/cybersecurity-week-3-network-security.git
+git push -u origin main
