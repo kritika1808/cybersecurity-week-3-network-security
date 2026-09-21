@@ -68,8 +68,4 @@ Nmap 7.99, Wireshark 4.6.6, Kali Linux, VirtualBox, Metasploitable2, GitHub.
 ## Conclusion
 Scanning found a large attack surface with two Critical flaws. Wireshark showed exactly what the scanner sent (SYN, SYN/ACK, RST). Six hardening changes closed 8 ports, and the re-scan proved it. Next steps: permanent service removal, a default-deny firewall and a full re-scan.
 
-## Folder Structure
-```
-01-Nmap/  02-Wireshark/  03-Vulnerability-Assessment/  04-Hardening/
-Network-Diagram/  Week-3-Report.pdf  Week-3-Presentation.pptx  README.md
-```
+
