@@ -25,7 +25,7 @@ Nmap 7.99, Wireshark 4.6.6, Kali Linux, VirtualBox, Metasploitable2, GitHub.
 - [x] Task 11 - Traffic investigation (6 events)
 - [x] Task 12 - Vulnerability assessment (11 findings)
 - [x] Task 13 - Hardening (6 changes) with before/after
-- [x] Task 14 - Final mini assessment (see `Week-3-Report.pdf`)
+- [x] Task 14 - Final mini assessment [View Week 3 Report (PDF)](./Week-3-Report.pdf)
 
 ## Key Findings
 | Risk | Finding |
